@@ -1,0 +1,7 @@
+a3a72999c00c8cb441bd02ee290b61f39168aee1e645ab9a9dac2acf22a447f0  screenshots/01-local-init-add-commit.png
+07411869eed0c6128b3bcd164a70422d7766c3e76268a0a6948af0c168a04b9e  screenshots/02-local-diff-and-history.png
+2d68c57848c92362584d93e0be6ad6322c8a5c9dda280aaf7d160040c2fc04c9  screenshots/03-local-checkout-and-return.png
+612b993d0447677e69e4600d162964d838aa86dfc1b0af6fce5703fb6fc6af32  screenshots/04-github-public-repo-and-push.png
+c8e75222ebfe96da1f96bb8ec03db0cb6c770cadfcfcdf1e6880e33c3ebc8bdb  screenshots/05-clone-second-copy-commit-push.png
+edd30a132ab08fe6bf23b08b3f5fc314c328bb88810bf65e56211c48e6460754  screenshots/06-original-copy-pull-and-push.png
+66821d66d30c1cb6d76bf747edfe0893ef24d131f7e6039d6071ba774159d95d  screenshots/07-second-copy-pull-and-verify.png
