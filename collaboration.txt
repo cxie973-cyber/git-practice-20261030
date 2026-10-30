@@ -1,0 +1,1 @@
+﻿Round trip sync: original copy -> GitHub -> second copy.
