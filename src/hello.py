@@ -1,1 +1,1 @@
-﻿print("Hello, Git! Version 1")
+﻿print("Hello, Git! Version 2")

@@ -1,1 +1,2 @@
 ﻿Version 1: initialize the local repository.
+Version 2: practice diff, add, and commit.
